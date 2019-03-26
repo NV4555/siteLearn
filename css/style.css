@@ -1,0 +1,106 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+}
+
+.navbar-brand {
+  color: #fff !important;
+}
+
+body {
+  margin-top: 75px;
+  margin-bottom: 75px;
+  background: url(/images/bg.jpg);
+}
+
+.body .container {
+  background: #99fe;
+}
+
+h1 {
+  text-align: left !important;
+  display: block;
+  border-bottom: 3px solid #eee;
+  font-style: italic;
+  color: #eee;
+  text-transform: uppercase;
+}
+
+.index .post {
+  text-align: center;
+}
+
+.index .post img {
+  width: 75%;
+  height: 400px;
+  text-align: center;
+}
+
+.index .post .text {
+  color: #eee;
+  padding: 25px;
+  text-align: left;
+  font-size: 18px;
+}
+
+.page2 .posts,
+.page3 .posts,
+.page4 .posts {
+  display: block;
+}
+
+.page2 .posts li,
+.page3 .posts li,
+.page4 .posts li {
+  padding: 10px;
+  margin-top: 30px;
+  text-align: center;
+}
+
+.page2 .posts .title,
+.page3 .posts .title,
+.page4 .posts .title {
+  text-align: left;
+  display: block;
+  font-size: 30px;
+  font-weight: 600;
+  border-bottom: 2px dotted #000;
+}
+
+.page2 .posts .text,
+.page3 .posts .text,
+.page4 .posts .text {
+  font-size: 20px;
+  display: block;
+  font-style: italic;
+}
+
+.page2 .posts img,
+.page3 .posts img,
+.page4 .posts img {
+  width: 80%;
+  border: 2px #ddd solid;
+  margin: 5px;
+}
+
+.page5 {
+  text-align: center;
+}
+
+.page5 ul a {
+  margin: 10px;
+  display: block;
+  font-size: 30px;
+  color: #fff;
+  font-style: italic;
+  text-decoration: none;
+}
+
+.page5 ul a:hover {
+  color: #ddd;
+}
+/*# sourceMappingURL=style.css.map */
